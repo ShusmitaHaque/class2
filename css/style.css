@@ -1,0 +1,116 @@
+.flex-section{
+
+width: 100%;
+padding: 80px 0px;
+
+}
+
+
+.continer{
+
+width: 1140px;
+margin: 0px auto;
+
+}
+
+.flex-box{
+
+   border: 5px solid rgb(175, 160, 173); 
+   display: flex;
+   justify-content: end;
+   height: 60vh;
+   align-items: end;
+}
+
+
+
+.box1{
+
+background-color: cadetblue;
+box-shadow: 3px 7px 64px 0px rgba(27,171,171,1);
+width: 150px;
+height: 150px;
+font-size: 50px;
+text-align: center;
+line-height: 150px;
+color: aliceblue;
+margin:  10px;
+
+}
+
+
+.social-icon{
+
+    text-align: center;
+}
+
+ .social-icon ul{
+margin: 15px;
+padding: 0px;    
+ }
+
+
+ .social-icon ul li{
+list-style-type: none;
+display: inline-block;
+margin-right: 10px;
+width: 60px;
+height: 60px;
+background-color: rgb(61, 61, 130);
+line-height: 60px;
+border-radius: 20px 0px;
+transition: 0.7s;
+ }
+
+ .social-icon ul li:hover{
+
+background-color: cornflowerblue;
+border-radius: 0px 20px;
+transition: 0.7s;
+
+ }
+
+
+.social-icon ul li a {
+
+
+
+}
+
+.social-icon ul li a i{
+
+color: azure;
+font-size: 20px;
+
+}
+
+.social-icon ul li:hover  .fa{
+
+color: darkslategray;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
